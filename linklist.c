@@ -60,9 +60,9 @@
      scanf("%d",&u);
      memory(u);
    }
-
+    printf("do you want to runnagain:\n");
    print();
    return 0;
 
  }
-printf("rashed");
+
