@@ -60,7 +60,7 @@
      scanf("%d",&u);
      memory(u);
    }
-
+    
    print();
    return 0;
 
